@@ -22,6 +22,9 @@ body {
   text-align: center;
   color: #fff;
 }
+.banner{
+  background: url('Dash-mc.png');
+}
 
 .banner h1 {
   font-size: 42px;
